@@ -1,2 +1,3 @@
-# PIR_CNicolas_Juarez_WingDesignFlutterControl
-PIR DMSM-15 &lt;&lt;Wing design flutter control with codesign in openMDAO/Dymos>>
+# PIR_CNicolas_Juarez_AlbatrossOneMDO
+Multidisciplinary design optimization of a semi aeroelastic hinged wing
+
